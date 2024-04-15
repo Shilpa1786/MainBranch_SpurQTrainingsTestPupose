@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+//Copied file
+# Log file
+*.log
+
+
+
 # BlueJ files
 *.ctxt
 
