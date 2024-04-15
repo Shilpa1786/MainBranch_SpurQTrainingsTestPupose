@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83eaab7a-7cfe-431b-bf79-2595da93cbd6" name="Changes" comment="" />
+    <list default="true" id="83eaab7a-7cfe-431b-bf79-2595da93cbd6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "branch3",
+    "git-widget-placeholder": "batch3modified",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/SpurQTrainingsTestPupose",
     "node.js.detected.package.eslint": "true",
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713197599268</updated>
       <workItem from="1713197600926" duration="3232000" />
-      <workItem from="1713202401843" duration="187000" />
+      <workItem from="1713202401843" duration="2558000" />
     </task>
     <servers />
   </component>
